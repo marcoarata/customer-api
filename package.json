@@ -1,0 +1,22 @@
+{
+  "name": "core-api",
+  "version": "1.0.0",
+  "description": "api-node-express",
+  "main": "app/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file .env app/main.js",
+    "dev": "nodemon --env-file .env app/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "marco arata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "name": "Loki",
+      "rut": "21.111.111-4",
+      "email": "loki@gmail.com",
+      "whatsapp": "+569124578"
+    },
+    {
+      "id": "2",
+      "name": "Mark",
+      "rut": "11.111.111-5",
+      "email": "mark@gmail.com",
+      "whatsapp": "+569235689"
+    },
+    {
+      "id": "3",
+      "name": "Lucy",
+      "rut": "11.111.111-6",
+      "email": "lucy@gmail.com",
+      "whatsapp": "+569124577"
+    }
+  ]
+}
